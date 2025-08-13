@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="![Flux_Dev_Super_Mario_standing_proudly_in_a_glowing_neon_pixela_0](https://github.com/user-attachments/assets/99fc8542-0b5b-4dfe-bee9-0f5b6ab765bf)" width="800" alt="Açıklama">
+</p>
 
 ## 👋 About Me  
 
