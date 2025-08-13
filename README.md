@@ -19,7 +19,6 @@
 ### 🔹 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599c?logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)
@@ -37,6 +36,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 
 ---
