@@ -1,11 +1,4 @@
 
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/99/MarioSMBW.png" width="200" alt="Mario Logo">
-</p>
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=DevynTyMario&fontSize=50&fontColor=ffffff&animation=fadeIn)
-
 ## 👋 About Me  
 
 🎓 I’m a **Computer Engineering Student** with a passion for building scalable, creative, and impactful software solutions.  
@@ -19,11 +12,6 @@
 📫 **Let’s Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-şentürk-440a69287)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/devynthmario)  
-
-🚀 Always learning, building, and sharing projects!  
-📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff4088?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
