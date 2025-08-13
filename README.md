@@ -1,5 +1,10 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=Master%20Mario&fontSize=50&fontColor=ffffff&animation=fadeIn)
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/99/MarioSMBW.png" width="200" alt="Mario Logo">
+</p>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=200&section=header&text=DevynTyMario&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 ## 👋 About Me  
 
@@ -47,20 +52,3 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
-
----
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/99/MarioSMBW.png" width="200" alt="Mario Logo">
-</p>
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark&row=1)
-
----
-
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:3b82f6&height=150&section=footer)
