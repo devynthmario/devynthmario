@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Languages & Tools (From My Python Bootcamp)
+## 🛠 Languages & Tools
 ### 🔹 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
