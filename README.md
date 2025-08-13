@@ -1,4 +1,5 @@
-![Flux_Dev_Super_Mario_standing_proudly_in_a_glowing_neon_pixela_0](https://github.com/user-attachments/assets/99fc8542-0b5b-4dfe-bee9-0f5b6ab765bf)
+
+![a](https://github.com/user-attachments/assets/4af5e38e-df1c-4920-83aa-ca444826ae38)
 
 ## 👋 About Me  
 
