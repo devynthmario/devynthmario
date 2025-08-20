@@ -12,8 +12,8 @@
 🎯 My goal is to become a versatile software engineer capable of working across full-stack web development, AI-driven applications, and decentralized systems.  
 
 📫 **Let’s Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-şentürk-440a69287)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/devynthmario)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-şentürk-440a69287)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devynthmario)
 
 ---
 
